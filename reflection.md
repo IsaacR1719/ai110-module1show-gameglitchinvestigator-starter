@@ -47,12 +47,15 @@ No, not really.
 ## 4. What did you learn about Streamlit and state?
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
-
+I did not understand what Streamlit and state are.
 ---
 
 ## 5. Looking ahead: your developer habits
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
+Edge cases.
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 - What is one thing you would do differently next time you work with AI on a coding task?
+I am not sure, to be honest.
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+AI can have errors.

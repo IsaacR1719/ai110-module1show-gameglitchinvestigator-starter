@@ -26,18 +26,21 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The purpose is to guess a number in a range.
 - [ ] Detail which bugs you found.
+I found that the game did not handle some invalid input.
 - [ ] Explain what fixes you applied.
+AI fixed the function logic.
 
 ## 📸 Demo Walkthrough
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. User enters a guess of 40
+2. Game returns "Too Low"
+3. User enters a guess of 70 → "Too High"
+4. Score updates correctly after each guess
+5. Game ends after the correct guess
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
